@@ -13,7 +13,3 @@ This program is a simple implementation of Bus Booking System using Python Tkint
 
 1. Python
 2. Tkinter for the graphical user interface.
-
-# Limitations:
-1. Only supports a fixed route: Indore to Gwalior.
-2. Basic functionality with no advanced features like seat selection or payment integration.
